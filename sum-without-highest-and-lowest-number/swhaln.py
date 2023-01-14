@@ -16,5 +16,4 @@ def sum_array(arr: list):
     arr = sorted(arr)
     return sum(arr[1:len(arr)-1])
 
-def sum_array(arr: list):
-    
+     
